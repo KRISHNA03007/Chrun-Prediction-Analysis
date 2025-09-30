@@ -1,0 +1,21 @@
+
+STRUCTURED PIPELINE
+-------------------
+
+1. Data Ingestion
+
+2. Data Inspection
+
+3. Data preprocessing
+    1. Data Cleaning
+    2. Feature Engineering
+
+4. Model Building & Evaluation
+
+5. Model Testing
+
+6. Sql Analysis
+
+7. Excel Analysis
+
+8. Interactive Dashboard
